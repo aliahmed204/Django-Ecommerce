@@ -1,2 +1,2 @@
 # Django-Ecommerce
-My Django First Project -Ecommerce Functionality 
+My Django First Project -Ecommerce  
